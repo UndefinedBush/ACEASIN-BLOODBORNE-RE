@@ -1,0 +1,14 @@
+{
+    "Bloodborne": {
+        "Build": "Private",
+        "Version": "2.21.0",
+        "Date": "2022.06.30.06.09"
+    },
+    "VRChat": {
+        "Build": "SDK3A",
+        "Version": "3.0",
+        "Date": "2022.06.03.00.04"
+    },
+    "Developer": false,
+    "Secure": true
+}
